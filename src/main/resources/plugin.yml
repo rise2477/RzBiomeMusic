@@ -1,0 +1,4 @@
+name: RzBiomeMusic
+version: '1.0-SNAPSHOT'
+main: org.rysenz.rzBiomeMusic.RzBiomeMusic
+api-version: '1.21'
